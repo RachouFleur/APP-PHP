@@ -14,4 +14,4 @@ elseif($age>=55){
 echo("$age agée");
 }
 
-?>w
+?>
